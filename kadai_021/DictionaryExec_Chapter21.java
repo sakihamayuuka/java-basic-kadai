@@ -9,11 +9,6 @@ public class DictionaryExec_Chapter21 {
 		
 		String[] wordsToFind = {"apple", "banana", "grape", "orange"};
 		
-		
-		for(String word : wordsToFind) {
-			String meaning = dictionary.findMeaning(word);
-			System.out.println(meaning);
-		}
 	}
 }
 
