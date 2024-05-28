@@ -9,6 +9,8 @@ public class DictionaryExec_Chapter21 {
 		
 		String[] wordsToFind = {"apple", "banana", "grape", "orange"};
 		
+		 dictionary.findMeaning(wordsToFind);
+		
 	}
 }
 
